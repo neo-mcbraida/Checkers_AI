@@ -1,2 +1,2 @@
 # Connect_4_AI
-reinforcement learning neural network to play connect 4
+reinforcement learning neural network to play checkers
